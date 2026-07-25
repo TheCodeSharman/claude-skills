@@ -12,6 +12,7 @@ tooling, tickets, or file paths — so it applies to whatever you're working on.
 | [`troubleshooting`](skills/troubleshooting/SKILL.md) | Diagnostics-first debugging: collect evidence before hypothesising, generate multiple candidates, reproduce as a failing test before fixing. |
 | [`tdd`](skills/tdd/SKILL.md) | Test-first discipline: red → green → refactor, test behaviour not implementation, real collaborators over mocks, poll instead of sleeping, don't skip refactor. |
 | [`fast-iteration`](skills/fast-iteration/SKILL.md) | Run the real test/dev loop yourself in a tight, warm feedback loop; filter at runtime not by editing source; visual checks; failure modes of long-lived dev servers. |
+| [`write-docs`](skills/write-docs/SKILL.md) | When and where to document: capture *why* and *how-to-use* (not *what*), keep pages short and concrete, keep the index thin, and know what not to write down. |
 
 The three cross-reference each other via relative links.
 
